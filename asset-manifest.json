@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/ujasmehta/Ishtva/static/css/main.c6013fc1.css",
-    "main.js": "/ujasmehta/Ishtva/static/js/main.81ac130c.js",
-    "static/media/iot.png": "/ujasmehta/Ishtva/static/media/iot.a281f2798cd855ab6a85.png",
-    "static/media/logo.png": "/ujasmehta/Ishtva/static/media/logo.38636675d88190f5ab1c.png",
-    "static/media/lcnc.png": "/ujasmehta/Ishtva/static/media/lcnc.4a4cf8b1db67ef8435a9.png",
-    "static/media/AI.png": "/ujasmehta/Ishtva/static/media/AI.a466fe51074f85f0b53e.png",
-    "static/media/slick.svg": "/ujasmehta/Ishtva/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/ujasmehta/Ishtva/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/ujasmehta/Ishtva/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/ujasmehta/Ishtva/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/ujasmehta/Ishtva/index.html",
-    "main.c6013fc1.css.map": "/ujasmehta/Ishtva/static/css/main.c6013fc1.css.map",
-    "main.81ac130c.js.map": "/ujasmehta/Ishtva/static/js/main.81ac130c.js.map"
+    "main.css": "/Ishtva/static/css/main.f4af6be4.css",
+    "main.js": "/Ishtva/static/js/main.614d1774.js",
+    "static/media/iot.png": "/Ishtva/static/media/iot.a281f2798cd855ab6a85.png",
+    "static/media/logo.png": "/Ishtva/static/media/logo.38636675d88190f5ab1c.png",
+    "static/media/lcnc.png": "/Ishtva/static/media/lcnc.4a4cf8b1db67ef8435a9.png",
+    "static/media/AI.png": "/Ishtva/static/media/AI.a466fe51074f85f0b53e.png",
+    "static/media/slick.svg": "/Ishtva/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Ishtva/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Ishtva/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Ishtva/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Ishtva/index.html",
+    "main.f4af6be4.css.map": "/Ishtva/static/css/main.f4af6be4.css.map",
+    "main.614d1774.js.map": "/Ishtva/static/js/main.614d1774.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6013fc1.css",
-    "static/js/main.81ac130c.js"
+    "static/css/main.f4af6be4.css",
+    "static/js/main.614d1774.js"
   ]
 }
