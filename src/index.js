@@ -1,5 +1,7 @@
 import React from 'react';
-import { HashRouter as Router } from 'react-router-dom';
+
+import { HashRouter as Router } from 'react-router-dom';  // Importing HashRouter as Router
+import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import 'slick-carousel/slick/slick.css';
